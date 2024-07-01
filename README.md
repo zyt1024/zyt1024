@@ -3,8 +3,6 @@
 <h1 align="center">Hi there 👋, I'm zyt1024!</h1>
 
 ### About me
-
-- 🔭 I’m currently pursuing a graduate degree at [ZZU](http://www.zzu.edu.cn/)
   
 
 - 🌱 I’m currently learning Mlsys and Cuda  
